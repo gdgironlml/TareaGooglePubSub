@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Publicador/Publicador.csproj" />
+  <Project Path="Suscriptor/Suscriptor.csproj" />
+</Solution>

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Publicador": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "GOOGLE_APPLICATION_CREDENTIALS": "C:\\Users\\estad\\OneDrive\\Escritorio\\UMG\\5to Semestre\\Programación III\\Claves Google Cloud\\GooglePubSubTarea.json"
+      }
+    }
+  }
+}
